@@ -1,0 +1,4 @@
+# Created at 2022-04-11T15:47:33.366
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Work My Projects\Spring Master\SpringWebRetailStore\retail_experience_server\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
