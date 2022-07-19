@@ -14,6 +14,7 @@
         <module>retail_experience_client</module>
         <module>retail_experience_server</module>
         <module>retail_experience_admin</module>
+        <module>project_upgrade</module>
     </modules>
 
     <build>
